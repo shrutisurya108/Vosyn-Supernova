@@ -1,0 +1,49 @@
+#	Cantonese source	MT English output	What to type
+1	簽證要求同簽證費因國家而異，並受到你嘅原籍國影響。	The visa requirements and fees vary by country and are influenced by your home country.	clean
+2	有人擔心，如果流感症狀輕微，病人可能會透過日常生活繼續感染更加多嘅人。	Some people worry that if flu symptoms are mild, patients might continue to infect more people in their daily lives.	clean
+3	聆訊亦都代表疑犯有權得到快速審判嘅日期。	Listening to the case also represents that the suspect has the right to a speedy trial.	"Listening to the case" | Mistranslation | major
+4	馬沙肯定至少會缺陣2009賽季剩低嘅賽事。	Masahiro is definitely out for at least the remaining games of the 2009 season.	"Masahiro" | Mistranslation | major
+5	喺禮拜日同博洛尼亞嘅比賽之前，佢住喺球隊嘅酒店。	Before the match against Bologna on Sunday, he stayed at the team's hotel.	clean
+6	格陵蘭人煙稀少。根據北歐傳說記載，紅鬍子艾瑞克因為謀殺罪而被逐出冰島，佢向西航行嗰陣，發現咗呢個島，命名為格陵蘭島。	Greenland has a sparse population. According to Nordic legends, Erik the Red was expelled from Iceland for murder and, while sailing west, discovered this island, which he named Greenland.	clean
+7	由於呢座城市嘅宗教意義，特別係老城地區嘅好多景點，耶路撒冷係以色列主要旅遊目的地之一。	Due to its religious significance, particularly in many attractions in the old city area, Jerusalem is one of Israel's main tourist destinations.	"particularly in many attractions in the old city area" | Grammar | major
+8	寒冷嘅天氣或者係嗰啲毫無準備嘅人將會面臨嘅唯一真正危險。	The only real danger in cold weather is for those who are unprepared.	clean
+9	另一位著名嘅希臘人係數學家畢達哥拉斯，最有名嘅係佢有關直角三角形邊關係嘅定理。	Another famous Greek figure was mathematician Pythagoras, most renowned for his theorem on the relationship of the sides of a right-angled triangle.	clean
+10	除咗導演工作以外，禾迪亞嘅成就仲包括 1973 年嘅絕食，目的係抗議佢認為係政治審查嘅制度。	Apart from his work as a director, Diya's achievements also include a hunger strike in 1973, which he carried out to protest against what he believed was a political review system.	"political review system" | Mistranslation | major
+11	呢座傳統嘅中世紀城堡長期以嚟一直激發大家嘅想象力，令人聯想到賽馬、宴會同亞瑟王嘅騎士精神。	This traditional medieval castle has long inspired imagination, evoking thoughts of horse racing, banquets, and the knightly spirit of King Arthur.	clean
+12	不過，幾乎所有上面列出嘅賭場都提供飲品，其中幾間賭場仲帶嚟知名品牌娛樂活動（主要係阿爾伯克基同聖達菲附近嘅大型賭場）。	However, almost all of the casinos listed above offer drinks, with several casinos also featuring well-known entertainment events (mainly the larger casinos near Albuquerque and Santa Fe).	clean
+13	土耳其天后Sezen Aksu同意大利男高音Alessandro Safina、希臘歌手Haris Alexiou同台表演。	Turkish singer Sezen Aksu performs alongside Italian tenor Alessandro Safina and Greek singer Haris Alexiou.	"performs" | Mistranslation | major
+14	土耳其嘅面積，包括湖泊，佔地 783,562 平方公里 (300,948平方英里)，其中 755,688 平方公里 (291,773平方英里) 位於亞洲西南部，23,764平方公里 (9,174平方英里) 喺歐洲。	The area of Turkey, including lakes, is 783,562 square kilometers (300,948 square miles), with 755,688 square kilometers (291,773 square miles) located in southwestern Asia and 23,764 square kilometers (9,174 square miles) in Europe.	clean
+15	梵語係一種相當複雜同豐富嘅語言，成爲好多現代印度語言嘅來源，就好似拉丁語係法語同西班牙語等歐洲語言嘅來源一樣。	Buddhist language is a rather complex and rich language, serving as the source for many modern Indian languages, just like how Latin is the source for French and Spanish, etc., in European languages.	"Buddhist language" | Mistranslation | major
+16	遠足係一種戶外活動，包括喺大自然度散步，通常係喺徒步小徑上散步。	A field trip is a type of outdoor activity that involves walking in nature, usually on hiking trails.	"A field trip" | Mistranslation | major
+17	我哋望太陽嗰陣所見到嘅外圍部分，叫做「光球層」。	The outer part we see when we look at the sun is called the "photosphere."	clean
+18	METI 上個禮拜宣佈，蘋果公司已經通知佢哋另外 34 宗過熱事件，公司認為事件性質「唔嚴重」。	Last week, Apple announced that it had informed them of an additional 34 overheating incidents, with the company considering the nature of the incidents to be "not serious."	"Apple announced" | Mistranslation | major
+19	上個月，伊朗一架飛往亞美尼亞嘅客機墜毀，機上 168 人遇難，呢個係伊朗多年嚟最嚴重嘅空難。	Last month, an airplane en route from Iran to Armenia crashed, killing all 168 people on board. This was Iran's most severe air disaster in many years.	clean
+20	通常，你要單獨購買一個全球號碼，噉樣公共電話交換網嘅電話先可以打畀你。號碼嘅來源會影響打電話畀你嘅人。	Usually, you need to purchase a global number separately, so that public telephone exchanges can call you. The source of the number will affect who can call you.	"so that public telephone exchanges can call you" | Mistranslation | major
+21	如果你想以平靚正嘅價錢去睇世界，不論係為咗慳旅費、體驗生活方式定係挑戰，都有幾個方法可以做到。	If you want to see the world at a decent price, whether for saving travel expenses, experiencing local lifestyles, or challenges, there are several methods to achieve it.	clean
+22	美國海軍亦都表示佢哋正喺度調查緊呢宗意外。	The U.S. Navy also stated that they are investigating this incident.	clean
+23	2017 年年底，西米諾夫喺電視購物頻道 QVC上出現。	In the end of 2017, Siminoff appeared on the TV shopping channel QVC.	"In the end of 2017" | Grammar | minor
+24	喺北岩銀行得到英國政府嘅緊急支持之後，呢間公司喺 2008 年國有化。	After receiving emergency support from the British government, the company was nationalized in 2008.	clean
+25	發展中國家旅行嘅新事物考起咗唔少經驗老到嘅旅客，好多微細嘅文化調整迅速累積起嚟會令人吃不消。	This has gained a lot of experience from seasoned travelers developing new attractions for developing countries. Many subtle cultural adjustments can pile up and become overwhelming.	"This has gained a lot of experience from seasoned travelers developing new attractions for developing countries." | Mistranslation | critical
+26	1951 年，一場大火淨係燒剩杜克耶堡嘅一啲遺跡，比如扎卜德龍·恩加旺·南賈爾嘅畫像。	In 1951, a fire left only some ruins of Duke of York Castle, including a portrait of Zabudrung Ngawang Namgyal.	clean
+27	除非你係外交官，否則喺海外工作通常表示你一定要喺所在嘅國家申報薪俸稅。	Unless you are a diplomat, working overseas usually means you have to declare your income to the tax authorities in the country where you are working.	clean
+28	額外增加300節車廂，令到車廂總數達到1300節，用嚟緩解過度擠迫嘅情況。	Adding 300 more carriages to bring the total to 1300 will help alleviate overcrowding.	clean
+29	永續農業係指為咗生產足夠嘅糧食，滿足務農者同佢地屋企嘅需求所進行嘅農業。	Sustainable agriculture refers to agriculture carried out to produce enough food to meet the needs of farmers and their families.	clean
+30	例如，35 毫米係世上最普遍嘅靜態影像攝影格式，佢係模擬菲林攝影時代終結嗰陣嘅主流菲林尺寸。	For example, 35mm is the most common format for static image photography, and it was the standard film size when analog film photography came to an end.	clean
+31	消防隊長史葛·古恩斯話：「嗰日聖克拉拉天氣炎熱，氣溫高達華氏90幾度。」	Fire Chief Scott Guinness said: "It was hot in Santa Clara that day, with temperatures reaching around 90 degrees Fahrenheit."	clean
+32	運動員可能會覺得，就算某種產品冇真正嘅好處，佢哋都係鍾意呢種產品。	Athletes might feel that they prefer a product, even if it doesn't have genuine benefits.	clean
+33	18%嘅委內瑞拉人失業，而大部分有嘢做嘅人都係從事唔正規嘅經濟活動。	18% of Venezuelans are unemployed, and most of those who have jobs are engaged in informal economic activities.	clean
+34	1895 年，喺第一次中日戰爭 (1894-1895) 戰敗之後，清政府簽署《馬關條約》。呢份條約將台灣嘅主權割讓俾日本，而日本對呢個島嶼嘅統治到 1945 年先至結束。	In 1895, following the defeat in the First Sino-Japanese War (1894-1895), the Qing government signed the Treaty of Shimonoseki. This treaty ceded Taiwan's sovereignty to Japan, and Japanese rule over the island did not end until 1945.	clean
+35	佢哋自稱為莫里奧里人，喺嗰度發生咗幾次小型衝突，卒之，莫里奧里人被剿滅。	They called themselves the Moriori people, and there were several small conflicts in those areas. Eventually, the Moriori people were exterminated.	"in those areas" | Addition | minor
+36	懷舊傢俬、冇最新嘅設施同埋某種優雅嘅古典味道亦都係佢哋特色嘅一部分。	Furniture from another era, lack of the latest facilities, and a certain elegant classical touch are also part of their特色.	"特色" | Untranslated | major
+37	呢啲理論關注嘅係某啲人係因乜嘢令佢哋想去做呢件事，同埋喺佢哋所處環境中乜嘢會令佢哋做或者唔做某件事。	These theories focus on why certain individuals want to do something and what factors in their environment influence them to do or not do something.	clean
+38	鄧迪大學嘅帕梅拉·弗格遜教授指出：「如果記者發佈疑犯相片，似乎係喺度行緊鋼線一樣。」	Professor Pamela Ferguson of Dengdi University noted: "Publishing a suspect's photo seems to be walking on thin ice."	"Dengdi University" | Mistranslation | major
+39	公司希望利潤來源更加多元化，喺中國、東歐同巴西呢啲 Skype 佔據優勢地位嘅地區獲得知名度。	The company hopes to diversify its profit sources, gaining recognition in regions like China, Eastern Europe, and Brazil, where Skype has a优势地位.	"优势地位" | Untranslated | major
+40	由於佢哋喺潛艇方面做得非常之好，戰後嘅德國唔獲信任可以擁有咁多艘潛艇。	Due to their excellent work in submarine technology, Germany was not trusted to have many submarines after the war.	clean
+41	雖然人工智能有強烈嘅科幻小說意味，但係人工智能形成咗電腦科學嘅一個非常重要嘅分支，牽涉到機器中嘅行為、學習同智能適應。	Although artificial intelligence has strong sci-fi novel connotations, it has become an extremely important branch of computer science, involving behavior, learning, and intelligent adaptation in machines.	clean
+42	大部分路段沿路都鋪設咗石級。喺比較斜嘅路段，鋼絲索可作當做支撐嘅扶手。	Most sections of the path are paved with stone steps. On steeper sections, steel cables serve as supporting handrails.	clean
+43	「好多謝大家對好似我咁嘅罪犯嘅支持。」西里波恩喺新聞發佈會上講。	Westley Birney thanked everyone for their support of offenders like him at the press conference.	"Westley Birney" | Mistranslation | major
+44	Twin Otter 尋日成爲巴布亞新幾內亞航空公司嘅 CG4684 航班嘗試降落喺科科達機場，但係中止咗一次。	The Twin Otter, registered CG4684, attempted to land at Kokoda Airport but had to abort the landing once.	"registered CG4684" | Mistranslation | major
+45	由於未能舉行選舉，時不時會引發暴力示威活動，其中一啲選舉仲自 2011 年以嚟就未有舉行。	Due to the failure to hold elections, there are occasional violent protests, with one election not held since 2011.	"with one election not held since 2011" | Mistranslation | major
+46	喺夏天，仲要留意北歐蚊。雖然佢哋唔會傳播任何疾病，但係佢哋會煩死人。	In summer, you still need to watch out for mosquitoes from Northern Europe. Although they don't spread any diseases, they can really drive you crazy.	clean
+47	十年後，佢領導阿波羅-聯盟號任務嘅蘇聯部分，象徵住太空競賽嘅結束。	Ten years later, he led the Soviet portion of the Apollo-Soyuz mission, symbolizing the end of the space race.	clean
+48	國會冇任何徵稅嘅權力，而且由於冇國家行政或者司法機構，佢依靠州當局嚟執行所有嘅法案，而州當局往往亦唔合作。	The Congress has no authority to levy taxes, and since there are no national administrative or judicial bodies, it relies on state authorities to implement all bills, and state authorities often do not cooperate.	clean

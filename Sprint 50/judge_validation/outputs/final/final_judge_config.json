@@ -1,0 +1,16 @@
+{
+  "generated_date": "2026-08-20",
+  "selection_rule": "disqualify malformed_rate > threshold, then rank by spearman_rho desc, tie-break MAE asc then malformed_rate asc",
+  "severity_weights": {
+    "minor": 1,
+    "major": 5,
+    "critical": 25,
+    "neutral": 0
+  },
+  "final_config_per_direction": {
+    "en_to_cmn": "glm4_qwen_ensemble_mqm",
+    "en_to_yue": "qwen_flat",
+    "cmn_to_en": "glm4_qwen_ensemble_mqm",
+    "yue_to_en": "qwen_flat"
+  }
+}
