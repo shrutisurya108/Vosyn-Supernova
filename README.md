@@ -1,5 +1,7 @@
 # Sprints Tasks
 
+Sprint 49 Task A: Judge and Scoring Research
+
 Sprint 50 Task A: Judge Validation and Finalization
 
 Sprint 50 Task B: Fine Tuning Readiness Preparation
