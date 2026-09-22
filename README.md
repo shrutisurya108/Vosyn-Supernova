@@ -2,6 +2,8 @@
 
 Sprint 50 Task A: Judge Validation and Finalization
 
+Sprint 50 Task B: Fine Tuning Readiness Preparation
+
 Sprint 51 Task A: Build a Reproducible Mandarin Data and Fine-Tuning Pipeline
 
 Sprint 51 Task B: Build an Automated Mandarin Inference, Evaluation and Rollback Pipeline
